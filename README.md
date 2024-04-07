@@ -11,8 +11,7 @@ Compatible across various devices and screen sizes for a seamless browsing exper
 Getting Started:
 
 To explore the Tindog website locally, simply clone this repository to your local machine and open the index.html file in your preferred web browser.
-
-
+https://shrishtisingh07.github.io/tindog/
 Contributions to enhance the Tindog website are welcome! Feel free to fork this repository, make your changes, and submit a pull request. Please ensure your contributions align with the project's coding standards and maintain consistency with the overall design and functionality.
 
 Credits:
